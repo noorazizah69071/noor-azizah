@@ -124,3 +124,62 @@ FAT32, NTFS (Windows)
 ext3/ext4 (Linux)
 
 APFS (macOS)
+
+## Section 1.9 – Keamanan Sistem Operasi
+
+Keamanan OS memastikan sistem terlindungi dari gangguan, baik internal maupun eksternal.
+
+Aspek keamanan:
+
+Autentikasi – Verifikasi identitas pengguna (username & password).
+
+Otorisasi – Menentukan hak akses pengguna.
+
+Enkripsi – Melindungi data dengan kode tertentu.
+
+Proteksi Sistem – Menjaga agar program tidak merusak sistem.
+
+## Section 1.10 – Virtualisasi
+
+Virtualisasi memungkinkan menjalankan banyak sistem operasi dalam satu perangkat keras fisik.
+OS menggunakan hypervisor (contoh: VMware, VirtualBox) untuk menciptakan mesin virtual (Virtual Machine).
+
+Kelebihan virtualisasi:
+
+Efisiensi sumber daya.
+
+Mudah melakukan uji coba sistem.
+
+Digunakan dalam server dan cloud computing.
+
+## Section 1.11 – Sistem Operasi Seluler
+
+Sistem operasi seluler dikembangkan khusus untuk perangkat mobile (smartphone, tablet).
+
+Contoh:
+
+Android (berbasis Linux)
+
+iOS (dikembangkan Apple)
+
+HarmonyOS (Huawei)
+
+Ciri khas:
+
+Konsumsi daya rendah.
+
+Antarmuka sentuh (touchscreen).
+
+Dukungan jaringan nirkabel dan sensor.
+
+## Section 1.12 – Tren Sistem Operasi Masa Depan
+
+Sistem operasi masa depan akan terus berevolusi dengan teknologi baru seperti:
+
+Cloud-based OS – Sistem operasi yang dijalankan lewat internet.
+
+AI-powered OS – Sistem yang mampu belajar dan menyesuaikan diri dengan pengguna.
+
+IoT Integration – OS yang terhubung ke banyak perangkat pintar.
+
+Keamanan dan Privasi – Fokus besar pada perlindungan data pengguna.
